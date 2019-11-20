@@ -1,2 +1,3 @@
 # Python
-beginning 
+Just started
+interpreted language 
