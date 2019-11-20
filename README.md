@@ -2,8 +2,7 @@
 Just started
 
 
-interpreted language means as soon as we write the code it execute line by line to easy to find errors
-
+interpreted language
 
 less lines of codes
 
